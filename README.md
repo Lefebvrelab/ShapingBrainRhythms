@@ -15,5 +15,5 @@ Simulation, analysis, and visualization code is located in two jupyter notebooks
 
 This repository has been configured so that the simulations can be easily run, reproduced, and modified for free in the cloud through just your browser, using the wonderful [Binder](https://github.com/binder-project).
 
-[Click here](http://mybinder.org/v2/gh/Lefebvrelab/ShapingBrainRhythms/master) to launch a new interactive cloud-hosted jupyter notebook server in your browser. When that has fired up, in the jupyter file browser navigate to [code] and start up [run_sims.ipynb] and [make_figures.ipynb]. 
+[Click here](http://mybinder.org/v2/gh/Lefebvrelab/ShapingBrainRhythms/master) to launch a new interactive cloud-hosted jupyter notebook server in your browser. When that has fired up, in the jupyter file browser navigate to `code` and start up `run_sims.ipynb` and `make_figures.ipynb`. 
 
